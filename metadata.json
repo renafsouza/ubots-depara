@@ -1,0 +1,5 @@
+{
+  "name": "JSON Utterance Comparator",
+  "description": "An application to import two JSON files, compare their 'utterances' based on a 'condition' key, identify differences, and allow users to resolve conflicts.",
+  "requestFramePermissions": []
+}
