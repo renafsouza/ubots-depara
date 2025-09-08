@@ -225,7 +225,7 @@ function App() {
     <div className="min-h-screen bg-slate-900 text-slate-200 font-sans p-4 sm:p-6 lg:p-8">
       <div className="max-w-7xl mx-auto">
         <header className="text-center mb-8">
-          <h1 className="text-4xl sm:text-5xl font-bold text-brand-primary">JSON Utterance Comparator</h1>
+          <h1 className="text-4xl sm:text-5xl font-bold text-brand-primary">Comparador de Bots</h1>
           <p className="mt-2 text-lg text-slate-400">Importe dois arquivos JSON para comparar e mesclar.</p>
         </header>
         
